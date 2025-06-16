@@ -1,1 +1,1 @@
-# VoteWise---A-Simple-Ethereum-Voting-DApp
+# VoteWise-A-Simple-Ethereum-Voting-DApp
