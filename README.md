@@ -5,6 +5,11 @@
 ## 🔍 Overview
 VoteWise is a beginner-friendly, end-to-end decentralized application (DApp) built on Ethereum using Solidity, HTML, JavaScript, and Web3.js. It enables users to cast votes for a candidate and check how many votes any candidate has received, stored securely on the blockchain.
 
+
+## Media Visualize:
+- [**YouTube**](https://youtu.be/UbVwTI40Hk8) – A complete walkthrough from writing the smart contract to minting the NFT and viewing it on OpenSea.  
+- [**Medium**](https://medium.com/@ganeshkantle/zero-to-deployed-building-my-first-ethereum-voting-dapp-0c17b6a22bf1) – Step-by-step breakdown of everything I did, in my own words.
+
 ## 🚀 Features
 - Vote for any candidate using their name.
 - Fetch real-time vote counts from the blockchain.
@@ -67,3 +72,5 @@ If you'd like to contribute, please fork the repository and submit a pull reques
 For any queries, feel free to reach out:
 - **Email:** ganeshkantle@gmail.com
 - **My Portfolio:** (https://ganesh-portfolio-dusky.vercel.app/)
+- **LinkedIn: ** https://www.linkedin.com/in/ganesh-kantle
+
